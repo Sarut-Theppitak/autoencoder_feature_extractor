@@ -15,4 +15,5 @@ What is included in this homework
 7. Create call back function for learning rate step decay
 8. How to use our trained autoencder as features extractor for clasification model training (autoencode + image generator)
 9. How to visualize accuracy graph.
+10. Train only CNN without autoencoder and comapre the result
 
