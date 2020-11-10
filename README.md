@@ -1,6 +1,9 @@
 # autoencoder_feature_extractor
 compare the result between using autoencoder as feature extractor(use only the bottle neck of the autoencoder) vs normal CNN
 
+see the ovweall picture here:
+https://github.com/Sarut-Theppitak/autoencoder_feature_extractor/issues/1
+
 This project is in in form of Jupyter notebook. We use CIfar-10 dataset unthe the condition that you can use 50% of the following classes for training (bird, deer and truck).
 We will train autoencoder firslt and feed the features to clasificaition to train the model separately.
 
