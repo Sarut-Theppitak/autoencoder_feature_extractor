@@ -1,5 +1,5 @@
 # autoencoder_feature_extractor
-compare the result between using autoencoder as feature extractor(use only the bottle neck of the autoencoder) vs normal CNN
+compare the result between using autoencoder as feature extractor(use only the bottle neck of the autoencoder) vs normal CNN for multi clasification tasks
 
 see the ovweall picture here:
 https://github.com/Sarut-Theppitak/autoencoder_feature_extractor/issues/1
